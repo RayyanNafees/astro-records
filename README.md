@@ -1,5 +1,5 @@
 # [Astro Records](https://astro-spa.netlify.app)
-![image](https://github.com/RayyanNafees/astro-records/assets/59685062/396fe255-0559-4d58-a8da-ade5fc6f2004)
+![image](https://github.com/RayyanNafees/astro-records/assets/59685062/e36d6022-acdb-4df8-bc6f-ee6b23bfcfc0)
 
 An astro Music Library harnessing the power of the new [Experimental ViewTransitions API](https://docs.astro.build/en/guides/view-transitions/)
 
