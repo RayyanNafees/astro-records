@@ -8,3 +8,11 @@ An astro Music Library harnessing the power of the new [Experimental ViewTransit
 -  [Tailwind](https://tailwindcss.com)
 -  [Preact](https://preactjs.com)
 -  [Cloudflare Workers](https://workers.cloudflare.com)
+-  [Netlify](https://netlify.com)
+
+## Exprected Stack:
+- [Astro](https://astro.build)
+- [UnoCSS](https://unocss.dev)
+- [Solid](https://solidjs.com)
+- [Neon](https://neon.tech)
+- [Vercel](https://vercel.com)
